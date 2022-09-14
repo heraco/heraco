@@ -56,8 +56,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH" **alt="SSH" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" **alt="Windows" width="40" height="40"/>&nbsp;
-  <img src="https://www.wtashows.com/index.php?view=5.5.2085887.2.24.33.vmware+logo" title="Windows" **alt="VMware" width="40" height="40"/>&nbsp;
-  <img src="https://1000marcas.net/nutanix-logo/" title="Windows" **alt="Nutanix" width="40" height="40"/>&nbsp;
+  <img src="https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2019/12/Captura-de-pantalla-de-2019-12-21-01-13-01-1.jpg" title="Windows" **alt="VMware" width="40" height="40"/>&nbsp;
+  <img src="https://1000marcas.net/wp-content/uploads/2021/05/Nutanix-logo.png" title="Windows" **alt="Nutanix" width="40" height="40"/>&nbsp;
 
 </div>
 
